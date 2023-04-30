@@ -1,0 +1,6 @@
+{
+  "name": "skyr-url-test",
+  "version": "0.0.1",
+  "dependencies": [{ "name": "skyr-url", "version>=": "1.13.0#2" }],
+  "builtin-baseline": "cb1301e9977b5f10b49f7988f68b808f7a558970"
+}
